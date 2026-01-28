@@ -24,3 +24,13 @@ Ini adalah **logic breaker**.
 ## Instalasi
 ```bash
 pip install aiohttp
+
+## Jalankan
+Edit variabel di script
+```bash
+TARGET = "https://target.com"
+USER_TOKEN = "JWT_TOKEN"
+
+Running
+```bash
+python termul_async.py
